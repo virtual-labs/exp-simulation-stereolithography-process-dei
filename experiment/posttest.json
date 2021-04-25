@@ -1,1 +1,46 @@
-[{"question":"Which file format is used for storing the information of the surface excluding texture and color:","answers":{"a":".dwg","b":".docx","c":".html","d":".stl"},"correctAnswer":"d"},{"question":"SLA technique is based on the principle of:","answers":{"a":"Fused deposition of material","b":"Polymerization of photosensitive resin","c":"Extrusion of molten plastics","d":"Binding of material"},"correctAnswer":"b"},{"question":"Why only certain polymer resins can be used for SLA process:","answers":{"a":"Resins are cheap","b":"Photo-polymerization is to be performed","c":"Resins provide excellent mechanical properties","d":"Resins provide good aesthetics"},"correctAnswer":"b"},{"question":"Key difference between SLA and μSL is:","answers":{"a":"Principle of operation","b":"Material used","c":"Resolution","d":"Radiation used"},"correctAnswer":"c"},{"question":"Which of the following is an advantage of using SLA process:","answers":{"a":"Support structures are not required","b":"Post-Processing not required","c":"Post-Curing is required","d":"Accuracy and Surface Finish"},"correctAnswer":"d"}]
+[{
+	"question": "Which file format is used for storing the information of the surface excluding texture and color:",
+	"answers": {
+		"a": ".dwg",
+		"b": ".docx",
+		"c": ".html",
+		"d": ".stl"
+	},
+	"correctAnswer": "d"
+}, {
+	"question": "SLA technique is based on the principle of:",
+	"answers": {
+		"a": "Fused deposition of material",
+		"b": "Polymerization of photosensitive resin",
+		"c": "Extrusion of molten plastics",
+		"d": "Binding of material"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Why only certain polymer resins can be used for SLA process:",
+	"answers": {
+		"a": "Resins are cheap",
+		"b": "Photo-polymerization is to be performed",
+		"c": "Resins provide excellent mechanical properties",
+		"d": "Resins provide good aesthetics"
+	},
+	"correctAnswer": "b"
+}, {
+	"question": "Key difference between SLA and μSL is:",
+	"answers": {
+		"a": "Principle of operation",
+		"b": "Material used",
+		"c": "Resolution",
+		"d": "Radiation used"
+	},
+	"correctAnswer": "c"
+}, {
+	"question": "Which of the following is an advantage of using SLA process:",
+	"answers": {
+		"a": "Support structures are not required",
+		"b": "Post-Processing not required",
+		"c": "Post-Curing is required",
+		"d": "Accuracy and Surface Finish"
+	},
+	"correctAnswer": "d"
+}]
